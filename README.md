@@ -1,2 +1,2 @@
-# phot_moth_sampling
+# photo_moth_sampling
 Exploration for Moth photo counts
